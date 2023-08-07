@@ -28,3 +28,7 @@ The benchmark is accompanied by several baseline models, including RoBERTa, Layo
 
    
 4. Conferences / workshops
+- International Conference on Document Analysis and Recognition (ICDAR) 2023 https://icdar2023.org/program/accepted-papers/
+- 
+
+6. 
