@@ -4,7 +4,6 @@ post-doc project repository
 
 TOPIC: ""Using AI to Build Document Processing Workflows""
 
-
 Problem statement - Research question:
 STATEMENT: Companies worldwide heavily depend on documents as a means to store and communicate vital information. Often, the transformation of this information into a digital format is essential for its utility. Nevertheless, today achieving this digitization typically involves laborious and time-consuming manual procedures that introducing inefficiencies that hinder business operations and decrease effective decision-making capabilities. The AI-based interpretation of documents such as invoices and contracts represents a profitable prospect and leading in new business opportunities. Moreover, the unstructured nature of documents introduces complexity, making it crucial to mobilize this unstructured data for a seamless and cohesive data flow. This converted data could be used for traditional analytics, BI or other downstream ML processes. Deep learning breakthroughs have driven substantial development in Large Language Models, natural language processing and computer vision, resulting in the incorporation of these approaches into modern document understanding systems. 
 
