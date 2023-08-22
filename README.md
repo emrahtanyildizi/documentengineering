@@ -1,6 +1,23 @@
 # documentengineering
 
-post-doc project repository
+post-doc research repository
+
+Table of contents:
+- Topic
+- Problem Statement
+- Research question
+- Objective
+- Key business usage
+- Methods
+- Topics of interest
+- Keywords
+- Datasets
+- Papers
+- Business sources
+- News
+- Conferences/events
+
+
 
 TOPIC: ""Using AI to Build Document Processing Workflows""
 
