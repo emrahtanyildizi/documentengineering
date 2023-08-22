@@ -6,7 +6,7 @@ TOPIC: ""Using AI to Build Document Processing Workflows""
 
 
 Problem statement - Research question:
-STATEMENT: Companies worldwide heavily depend on documents as a means to store and communicate vital information. Often, the transformation of this information into a digital format is essential for its utility. Nevertheless, today achieving this digitization typically involves laborious and time-consuming manual procedures that introducing inefficiencies that hinder business operations and decrease effective decision-making capabilities. The AI-based interpretation of documents such as invoices and contracts represents a profitable prospect and leading in new business opportunities. Moreover, the unstructured nature of documents introduces complexity, making it crucial to mobilize this unstructured data for a seamless and cohesive data flow. Deep learning breakthroughs have driven substantial development in Large Language Models, natural language processing and computer vision, resulting in the incorporation of these approaches into modern document understanding systems. 
+STATEMENT: Companies worldwide heavily depend on documents as a means to store and communicate vital information. Often, the transformation of this information into a digital format is essential for its utility. Nevertheless, today achieving this digitization typically involves laborious and time-consuming manual procedures that introducing inefficiencies that hinder business operations and decrease effective decision-making capabilities. The AI-based interpretation of documents such as invoices and contracts represents a profitable prospect and leading in new business opportunities. Moreover, the unstructured nature of documents introduces complexity, making it crucial to mobilize this unstructured data for a seamless and cohesive data flow. This converted data could be used for traditional analytics, BI or other downstream ML processes. Deep learning breakthroughs have driven substantial development in Large Language Models, natural language processing and computer vision, resulting in the incorporation of these approaches into modern document understanding systems. 
 
 QUESTION: How does the implementation of LLM-driven Document AI impact the efficiency and accuracy of transforming diverse document types into usable data, considering the variations in document structures, layouts, and information relevance? How does this transformation influence enterprises' ability to shift their operational focus from data compilation to informed decision-making?
 
@@ -38,7 +38,7 @@ Methods:
 Topics of Interest:
 Document image processing / Physical and logical layout analysis / Text and symbol recognition / Handwriting recognition / Document analysis systems / Document classification / Indexing and retrieval of documents / Document synthesis / Extracting document semantics / NLP/LLM for document understanding / Human document interaction / Document Representation Modeling / Structured document generation / Multimedia document analysis / Mobile text recognition / Pen-based document analysis / Scene text detection and recognition / Recognition of tables and formulas / Historical document analysis / Signature verification / Document summarization and translation / Document forensics and provenance / Medical document analysis / Document analysis for social good / Document analysis for literature search / Gold-standard benchmarks and datasets
 
-Keywords: Document AI, Document Intelligence, Deep learning, Applied data science, ADL-computer vision, Machine Learning Models, Structured/unstructured data, Tensorflow, 
+Keywords: Document AI, Document engineering, Document Intelligence, Intelligent document processing, document understanding, Generative AI for business documents, Deep learning, Applied data science, ADL-computer vision, Machine Learning Models, Structured/unstructured data, Tensorflow, extract text, key-value pairs, document processing, knowledge mining, automate business workflows, 
 
 
 Papers
@@ -66,11 +66,24 @@ Ninety-five percent of organizations are affected by unstructured data, resultin
 
 
 
+Business sources: 
+Google: Document AI https://cloud.google.com/document-ai
+Azure Document Intelligence: https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence
+Amazon: Scaling intelligent document processing workflows with AWS AI services https://aws.amazon.com/blogs/publicsector/scaling-intelligent-document-processing-workflows-aws-ai/
+UiPath: https://www.uipath.com/product/document-understanding
+
+Petal: document analysis platform: https://www.petal.org/
+Snowflake: Snowflake is making another generative AI push. Today at its annual conference, the data cloud company announced Document AI, a new large language model (LLM)-based interface that allows enterprises to quickly extract value from their barrage of documents. The move marks a major development for the data giant — which started off with a focus on structured data — and provides an easy way to mobilize useful unstructured information that often remains scattered across silos.Customers will see an end-to-end experience where they will able to have documents in Snowflake and ask structured questions from those documents — like what’s the name of the employee, what’s their address or the total value in the invoice,” Kleinerman explained in a press briefing. “This will trigger the system to take the documents, which are unstructured files, and convert them into structured data. This converted data could be used for traditional analytics, BI or other downstream ML processes
+Applica: acquired by Snowflake https://www.applica.ai/
+Docsumo: https://www.docsumo.com/blog/document-ai-future#:~:text=AI%2Dbased%20document%20processing%20technology,easily%20analyzed%20and%20stored%20later.
+
+
+News:
+Using AI To Automate Enterprise Document Processing Workflows: https://www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/?sh=1d10a02f1323
 
 
 
-   
-4. Conferences / workshops
+Conferences / workshops
 - International Conference on Document Analysis and Recognition (ICDAR) 2023 https://icdar2023.org/program/accepted-papers/
 - 
 
