@@ -102,6 +102,7 @@ Ninety-five percent of organizations are affected by unstructured data, resultin
 
 
 EMNLP 2022 Papers
+
 1- Information Theory–based Compositional Distributional Semantics In Special Collection: CogNet
 Enrique Amigó, Alejandro Ariza-Casabona, Victor Fresno, M. Antònia Martí December 01 2022 https://direct.mit.edu/coli/article/48/4/907/112556/Information-Theory-based-Compositional
 
