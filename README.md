@@ -180,6 +180,6 @@ Using AI To Automate Enterprise Document Processing Workflows: https://www.forbe
 
 Conferences / workshops
 - International Conference on Document Analysis and Recognition (ICDAR) 2023 https://icdar2023.org/program/accepted-papers/
-- 
+- EMNLP 2022 https://2022.emnlp.org/
+- EMNLP 2023 https://2023.emnlp.org/
 
-6. 
