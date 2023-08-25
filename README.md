@@ -149,23 +149,20 @@ The most prominent tasks in emotion analysis are to assign emotions to texts and
 Specialised transformers-based models (such as BioBERT and BioMegatron) are adapted for the biomedical domain based on publicly available biomedical corpora. As such, they have the potential to encode large-scale biological knowledge. The study investigates the encoding and representation of biological knowledge in these models, and its potential utility to support inference in cancer precision medicine - namely, the interpretation of the clinical significance of genomic alterations. the study compares the performance of different transformer baselines; it uses probing to determine the consistency of encodings for distinct entities; and the research uses clustering methods to compare and contrast the internal properties of the embeddings for genes, variants, drugs and diseases. We show that these models do indeed encode biological knowledge, although some of this is lost in fine-tuning for specific tasks. Finally, the study analyses how the models behave with regard to biases and imbalances in the dataset.
 
 
-
-
-
-
-
-
-Regenerate
-
-
-
 Business sources: 
+
 Google: Document AI https://cloud.google.com/document-ai
+
 Google: DocumentAI for developers https://developers.google.com/learn/topics/document-ai
+
 Azure Document Intelligence: https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence
+
 Amazon: Scaling intelligent document processing workflows with AWS AI services https://aws.amazon.com/blogs/publicsector/scaling-intelligent-document-processing-workflows-aws-ai/
+
 UiPath: https://www.uipath.com/product/document-understanding
+
 IBM:Accelerate business decisions and processes with an AI-powered intelligent document understanding and content analysis platform https://www.ibm.com/products/watson-discovery?utm_content=SRCWW&p1=Search&p4=43700075721478226&p5=p&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfx01dIg_SouZjSJc9qfIFlD3CDu3U0SOlua3VnzaF_pK8ybHxLJhR4aAgffEALw_wcB&gclsrc=aw.ds
+
 Hypatos: Document AI: Combining NLP & machine vision for top results https://www.hypatos.ai/blog/document-ai
 
 Petal: document analysis platform: https://www.petal.org/
@@ -175,10 +172,12 @@ Docsumo: https://www.docsumo.com/blog/document-ai-future#:~:text=AI%2Dbased%20do
 
 
 News:
+
 Using AI To Automate Enterprise Document Processing Workflows: https://www.forbes.com/sites/forbestechcouncil/2021/04/20/using-ai-to-automate-enterprise-document-processing-workflows/?sh=1d10a02f1323
 
 
 Conferences / workshops
+
 - International Conference on Document Analysis and Recognition (ICDAR) 2023 https://icdar2023.org/program/accepted-papers/
 - EMNLP 2022 https://2022.emnlp.org/
 - EMNLP 2023 https://2023.emnlp.org/
